@@ -1,0 +1,208 @@
+.main-home {
+    /* height: 150px; */
+    width: 79.7rem;
+    background-color: rgb(238, 237, 235);
+}
+
+.incomBar-section {
+    height: 140px;
+    width: 100%;
+    background-color: rgb(238, 237, 235);
+    display: flex;
+}
+
+.main-Div {
+    height: 120px;
+    width: 240px;
+    background-color: white;
+    margin: 10px;
+    margin-left: 50px;
+    border-radius: 0.5rem;
+
+}
+
+.img-div {
+    height: 95px;
+    width: 95px;
+    border-radius: 5rem;
+    margin: 12px 10px 0px 10px;
+    /* background-color: rgb(184, 246, 174); */
+}
+.img1{background-color: rgb(205, 250, 205);}
+.img2{background-color: rgb(240, 197, 240);}
+.img3{background-color: rgb(192, 247, 229);}
+.img4{background-color: rgb(254, 211, 221);}
+
+.icon1 {
+    height: 90px;
+    width: 90px;
+    color: rgb(28, 216, 28);
+}
+.icon2{
+    height: 90px;
+    width: 90px;
+    color: rgb(128, 0, 94);
+}
+.icon3{
+    height: 90px;
+    width: 90px;
+    color: rgb(11, 56, 254);
+}
+.icon4{
+    height: 90px;
+    width: 90px;
+    color: rgb(253, 15, 134);
+}
+
+.main-Div{
+    display: flex;
+}
+.data-p{
+    margin-top: 15px;
+    font-size:12px ;
+    color: rgb(207, 202, 202);
+}
+.uparrow{
+    color: rgb(9, 235, 9);
+}
+.downarrow{
+    color: red;
+}
+
+.b1{color: rgb(7, 242, 7);}
+.b2{color: red;}
+/* /////////////////       BarChart-section start        ////////////// */
+.BarChart-section {
+    height: 310px;
+    width: 100%;
+    background-color: rgb(238, 237, 235);
+    display: flex;
+}
+
+.BarChart-Div1 {
+    height: 290px;
+    width: 700px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 0.5rem;
+
+}
+
+.RoundChart-Div {
+    height: 0px;
+    width: 300px;
+    background-color: rgb(252, 249, 249);
+    margin-left: 43px;
+    margin-top: 10px;
+
+}
+
+/* ///////////// PI Chart start ///// */
+.pchart {
+    height: 0px;
+    width: 0px;
+    
+    background-color: white;
+    border-radius: 0.5rem;
+}
+
+/* /////////  Down Div 1 Start /////////////// */
+
+.down-Div1 {
+    height: 85px;
+    width: 100%;
+    background-color: rgb(238, 237, 235);
+
+}
+.D11 {
+    height: 45px;
+    width: 90%;
+    background-color: white;
+    display: flex;
+    color: black;
+    margin-left: 48px;
+    border-radius: 0.5rem 0.5rem 0rem 0px ;
+
+}
+
+.D11 h2 {
+    margin-left: 30px;
+}
+
+.bSearch {
+    margin: 23px 5px 0px 600px;
+}
+
+.down-Div1 input {
+    height: 20px;
+    margin: 18px 0px 0px 0px;
+}
+
+.down-Div1 p {
+    margin: 20px 0px 0px 40px;
+    color: rgb(162, 159, 159);
+}
+
+.lineDown {
+    margin: 22px 0px 0px 5px;
+}
+
+/* //////////////// */
+
+.D22 {
+    background-color: white;
+    height: 40px;
+    width: 76.6%;
+    position: absolute;
+    display: flex;
+    margin-left: 48px;
+    border-radius: 0rem 0rem 0rem 0rem;
+}
+
+.D22 h5 {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 570px;
+}
+
+.D22 p {
+    margin-left: 90px;
+    color: rgb(180, 182, 183);
+}
+
+/* /////////  Down Div  Start /////////////// */
+.down-Div2 {
+    height: 115px;
+    width: 90%;
+    background-color: white;
+    margin-left: 48px;
+margin-top: 3px;
+border-radius: 0rem 0rem 0.5rem 0.5rem ;
+}
+
+.DD1 {
+    display: flex;
+}
+
+.DD1 img {
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.DD1 h4 {
+    margin-top: 9px;
+    margin-left: 10px;
+    margin-right: 400px;
+}
+
+.pp {
+    position: absolute;
+    margin: 30px 0px 0px 190px;
+    color: rgb(180, 182, 183);
+}
+
+.ppp {
+    margin-left: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
